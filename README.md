@@ -1,2 +1,2 @@
-# eprocurement.github.io
+# eprocurement
 Let's do this
